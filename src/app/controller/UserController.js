@@ -53,19 +53,6 @@ class UserController {
     }
 
     // ok
-    async show(req, res){
-        try {
-            const id = parseInt(req.params.id)
-            const empresa = await User.findByPk(id)
-            const status = empresa ? 200 : 400
-
-            return res.status(status).json(empresa)
-        } catch(e){
-            console.error(e)
-        }
-    }
-
-    // ok
     async update(req, res){
         
         try {

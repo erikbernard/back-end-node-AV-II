@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "goku": "nodemon ./src/server.js",
+    "app": "nodemon ./src/server.js",
     "playground": "nodemon ./src/playground.js" 
   },
   "keywords": [],

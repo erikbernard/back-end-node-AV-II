@@ -24,7 +24,7 @@ npm rum app
 
 Também consta na pastas a exportação dos end point, onde só importa no insomnia e usar.
 
-[web avaliação - Google Drive](https://drive.google.com/drive/folders/11Df6GvDX8GhjbTyGzIDJmI80H95aEIHo?usp=sharing)
+[Endpoints](./endpoint.json)
 
 ### GitHub
 
